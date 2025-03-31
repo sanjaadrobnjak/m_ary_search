@@ -19,7 +19,7 @@ This project implements an M-ary search algorithm, a generalized version of bina
   - The program generates a sequence of keys within a given range and calculates the average number of steps needed for searching.
   - Evaluation is performed for m values in the range [2-6].
 - Performance Evaluation of Optimized M-ary Search for Multiple Keys
-  -Similar to the previous evaluation, but for multiple keys instead of single key searches.
+  - Similar to the previous evaluation, but for multiple keys instead of single key searches.
 
 ## Performance Analysis
 The program evaluates the performance of M-ary search by measuring the average number of search steps for different values of m. Results are displayed for m values from 2 to 6.
